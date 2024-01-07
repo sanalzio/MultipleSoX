@@ -1,0 +1,12 @@
+{
+    "sox-dir":"",
+    "start-path":"/",
+    "include-subfolders":true,
+    "input-types":["wav","mp3","ogg"],
+    "output-type":"wav",
+    "default-rate":"22050",
+    "default-channels":"1",
+    "default-type":"wav",
+    "additional-global-options":"",
+    "additional-format-options":""
+}
