@@ -13,9 +13,9 @@
 
 
 ## Istallation
-[<img alt="downloadbtn" src="https://dabuttonfactory.com/button.png?t=Download&f=Ubuntu-Bold&ts=30&tc=fff&hp=15&vp=15&c=6&bgt=unicolored&bgc=238636&bs=4&bc=37914a" width="100px">](https://github.com/sanalzio/MutlipleSoX/releases)
+[<img alt="downloadbtn" src="https://dabuttonfactory.com/button.png?t=Download&f=Ubuntu-Bold&ts=30&tc=fff&hp=15&vp=15&c=6&bgt=unicolored&bgc=238636&bs=4&bc=37914a" width="100px">](https://github.com/sanalzio/MultipleSoX/releases)
 
-Download MutlipleSoX latest relase from [here](https://github.com/sanalzio/MutlipleSoX/releases).
+Download MutlipleSoX latest relase from [here](https://github.com/sanalzio/MultipleSoX/releases).
 
 ## Usage
 
