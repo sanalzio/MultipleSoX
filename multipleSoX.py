@@ -6,7 +6,7 @@ from colorama import Fore, init
 from os import system, getcwd, path, listdir, walk
 
 init()
-system('title Smdcut for goldsrc')
+system('title MultipleSoX')
 print(Fore.YELLOW + f"\n\n                  Multiple So{Fore.RESET}und e{Fore.YELLOW}X{Fore.RESET}change")
 print("    A utility tool for organizing audio files in multiples.\n")
 
