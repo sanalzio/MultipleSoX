@@ -93,5 +93,8 @@ if dirpath:
             nor(dirpath)
         for file in files:
             fileyesok(file)
+
+print("")
+system('pause')
     else:
         fileyesok(dirpath)
